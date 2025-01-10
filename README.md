@@ -6,5 +6,4 @@ I have included the blender files so you can take apart the model if you want to
 ![different_material](https://github.com/user-attachments/assets/fa5e5adb-7fd4-4f2e-ba23-2a395de3b9de)
 
 Otherwise, you cant just print the stl for a solid build like the pic below. LMK if you use this! 
-
-![Uploading solid.png…]()
+![solid](https://github.com/user-attachments/assets/d4b33df3-91d2-4f65-8f62-bb1b474ab135)
